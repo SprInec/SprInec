@@ -51,7 +51,7 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
   <tr>
     <td colspan="2">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=merko" alt="Activity Graph" />
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" />
       </a>
     </td>
   </tr>

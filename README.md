@@ -50,7 +50,7 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
   </tr>
 </table>
 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" style="width: 81%; height: auto;" />
 
 </div>
 

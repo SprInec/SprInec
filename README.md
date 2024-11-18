@@ -35,7 +35,7 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
 ## 📊 GitHub Stats
 <div align="center">
   
-<table>
+<table style="width: 100%;">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,15 +48,9 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" />
-      </a>
-    </td>
-  </tr>
 </table>
 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" />
 
 </div>
 

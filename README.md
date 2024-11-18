@@ -35,14 +35,14 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
 ## 📊 GitHub Stats
 <div align="center">
   
-<table style="width: 100%;">
+<table style="width: 800px; height: auto;">
   <tr>
-    <td>
+    <td style="width: 500px; height: auto;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=SprInec&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
-    <td>
+    <td style="width: 300px; height: auto;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprInec&layout=compact&hide_border=true" alt="Top Languages" />
       </a>
@@ -50,7 +50,7 @@ I'm **SprInec**, a passionate explorer and sharer of creative ideas and unknown 
   </tr>
 </table>
 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" style="width: 95%; height: auto;" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" style="width: 800px; height: auto;" />
 
 </div>
 

@@ -1,4 +1,4 @@
-name: snake
+name: Snake
 
 on:
   # run automatically every 2 hours

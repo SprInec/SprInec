@@ -14,10 +14,10 @@
     <a target="_blank"href="mailto:julycubspring@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-## 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50px" />&nbsp;GITHUB DATA
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35px" />&nbsp;Technology Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50px" />&nbsp;MY SKILLS
 
 <div align="center">
     <p>
@@ -48,7 +48,7 @@
 
 
 
-
+<br>
 <p align="center">
 	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />
 </p>

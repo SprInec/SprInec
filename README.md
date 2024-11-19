@@ -19,19 +19,33 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35px" />&nbsp;Technology Stack
 
-<p align="center">
-  	<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,md" />
-    <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino" />
-    <img src="https://skillicons.dev/icons?i=flask,nginx,mysql" />
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cmake" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender,qt,obsidian,notion" />
-	<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,pycharm,clion,matlab,sublime" />
+<div align="center">
+    <p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,md" />
+	</p>
+	<p>
+    	<img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino" />
+	</p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=flask,nginx,mysql" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=git,github" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cmake" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender,qt,obsidian,notion" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,pycharm,clion,matlab,sublime" />
+	</p>
+</div>
 
-
-
-</p>
 
 
 

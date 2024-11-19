@@ -33,7 +33,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
@@ -42,7 +42,7 @@ jobs:
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -66,7 +66,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 16
           plugin_people_shuffle: yes
-          plugin_people_size: 50
+          plugin_people_size: 40
           plugin_people_types: followers
           plugin_topics: yes
           plugin_topics_limit: 0

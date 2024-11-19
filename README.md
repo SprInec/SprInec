@@ -1,7 +1,7 @@
 # Hello! 👋
 
 Welcome to my GitHub profile! ✨  
-I'm **SprInec**, An explorer and sharer who is passionate about creativity and technology.
+I'm **SprInec**, an explorer and sharer who is passionate about creativity and technology.
 
 ## 🚀 About Me
 

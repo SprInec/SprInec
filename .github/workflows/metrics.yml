@@ -27,7 +27,7 @@ jobs:
           # Options
           template: classic
           base: header, activity
-          config_padding: 0, 20
+          config_padding: 0, 70
           config_display: large
           config_timezone: Asia/Shanghai
           plugin_followup: yes
@@ -35,7 +35,7 @@ jobs:
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts_type: graph
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -59,9 +59,9 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 16
           plugin_people_shuffle: yes
-          plugin_people_size: 36
+          plugin_people_size: 50
           plugin_people_types: followers
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
           plugin_topics_sort: stars

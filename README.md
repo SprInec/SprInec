@@ -14,14 +14,26 @@
     <a target="_blank"href="mailto:julycubspring@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-
+## 
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35px" />&nbsp;Technology Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  	<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,md" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=flask,nginx,mysql" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cmake" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender,qt,obsidian,notion" />
+	<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,pycharm,clion,matlab,sublime" />
+
+
+
 </p>
+
+
 
 <p align="center">
 	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />

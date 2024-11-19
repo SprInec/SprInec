@@ -1,5 +1,19 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="animated hello">
 
-&nbsp;&nbsp;<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=3&pretty=true" />
+
+![hello](.assets/hello.gif)
+
+<div align="center">
+    <h3>Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50px" />, I'm SprInec! &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="50px" /></h3>
+	An explorer and sharer who is passionate about creativitys and technology.
+</div>  
+
+&nbsp;&nbsp;<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />
 <br>
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>

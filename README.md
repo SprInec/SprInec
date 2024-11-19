@@ -1,26 +1,5 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SprInec&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprInec&layout=compact&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=github-compact&bg_color=FFFFFF" alt="Activity Graph" style="width: 820px; height: auto;" />
-
-</div>
-
 ## 📫 How to Reach Me
 
 - Email: [sprinec@163.com](mailto:sprinec@163.com)

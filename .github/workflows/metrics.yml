@@ -27,8 +27,8 @@ jobs:
           # Options
           template: classic
           base: header, activity
-          config_padding: 0, 0
-          config_display: large
+          config_padding: 0, 8
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes

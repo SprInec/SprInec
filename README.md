@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! ✨  
 I'm **SprInec**, an explorer and sharer who is passionate about creativity and technology.
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="600" />
+<img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
 ## 🚀 About Me
 

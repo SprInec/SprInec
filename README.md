@@ -21,12 +21,10 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=vue&hide_border=true&bg_color=ffffff&hide_title=true&days=30&point=29701f&height=370&area=true&color=777777&grid=false" />
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SprInec&theme=shadow_green&show_icons=true&hide_border=true&card_width=300px&hide_title=true&line_height=30" />
-<img align="right" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=360&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
+<div align="center">
+<img hight=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SprInec&theme=shadow_green&show_icons=true&hide_border=true&card_width=300px&hide_title=true&line_height=30" />
+<img hight=200 align="center" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=360&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
 </div>
-
-<br><br><br><br><br><br><br><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;FIELD & SKILLS
 

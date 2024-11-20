@@ -23,7 +23,7 @@
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SprInec&theme=shadow_green&show_icons=true&hide_border=true&card_width=300px&" />
-<img align="right" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=380&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
+<img align="right" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=360&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
 </div>
 
 <br><br><br><br><br><br><br><br>

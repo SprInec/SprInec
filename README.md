@@ -93,5 +93,5 @@
 <br>
 
 <p align="left">
-	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />
+	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&pretty=true" />
 </p>

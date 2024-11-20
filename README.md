@@ -8,15 +8,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=ffffff&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+    srcset="https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=17&letterSpacing=标准&duration=5000&pause=1000&color=ffffff&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+    srcset="https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
   />
   <img
     alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+    src="https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
   />
 </picture>
 

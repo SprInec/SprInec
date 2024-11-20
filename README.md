@@ -111,7 +111,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" />
 
-<h3>SPRINEC&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" /></h3>
+<h3>SprInec&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" /></h3>
 <p></p><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 <p></p><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 

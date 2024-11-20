@@ -1,4 +1,4 @@
-name: generate 3d chart for profile contributions
+name: GitHub-Profile-3D-Contrib
 
 on:
   # run automatically every 24 hours

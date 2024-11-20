@@ -29,7 +29,7 @@
     <a target="_blank"href="mailto:julycubspring@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35px" />&nbsp;GITHUB DATA
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40px" />&nbsp;GITHUB DATA
 
 <!-- Metrics -->
 <img align="center" src="/github-metrics.svg" alt="Metrics" />
@@ -42,7 +42,7 @@
 <img hight=200 align="center" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=360&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;FIELD & SKILLS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50px" />&nbsp;FIELD & SKILLS
 
 <div align="center">
     <img src="https://img.shields.io/badge/Embedded-%2303234B?style=for-the-badge&logo=stmicroelectronics" />&nbsp;
@@ -107,7 +107,7 @@
     </p>
 </div>
 
-## <img src=".assets/Triangular Flag-1732060779337-3.png" alt="Triangular Flag" width="35px"  />&nbsp; CONNECT ME
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />&nbsp; CONNECT ME
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" />
 

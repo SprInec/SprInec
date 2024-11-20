@@ -18,7 +18,7 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="35px" />&nbsp;FIELD
+## <img src=".assets/Smiling Cat with Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="35px" />&nbsp;FIELD
 
 <div align="center">
     <img src="https://img.shields.io/badge/Embedded-%2303234B?style=for-the-badge&logo=stmicroelectronics" />&nbsp;
@@ -89,18 +89,11 @@
 
 ## <img src=".assets/Triangular Flag-1732060779337-3.png" alt="Triangular Flag" width="35px"  />&nbsp; CONNECT ME
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: left;">
-    <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="20px" />&nbsp;<strong>SprInec</strong></p>
-    <p><strong>Email:</strong> sprinec@163.com</p>
-    <p><strong>Gmail:</strong> julycubspring@gmail.com</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-  </div>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
 
-
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="20px" />&nbsp;<strong>SprInec</strong></p>
+<p><strong>Email:</strong> sprinec@163.com</p>
+<p><strong>Gmail:</strong> julycubspring@gmail.com</p>
 
 <br>
 

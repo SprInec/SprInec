@@ -94,8 +94,8 @@
 <br><br><br>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30px" />&nbsp;<strong>SPRINEC</strong></h3>
-&nbsp;&nbsp;<p></p><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
-&nbsp;&nbsp;<p></p><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<p></p><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<p></p><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 
 
 <br><br><br><br>

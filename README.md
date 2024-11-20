@@ -3,7 +3,7 @@
 ![hello](.assets/hello.gif)
 
 <div align="center">
-    <h1>Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35px" />, I'm SprInec!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="35px" /></h1>
+    <h1>Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35px" />, I'm SprInec!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="35px" /></h1>
 	An explorer and sharer who is passionate about creativitys and technology.
 </div>
 <br>
@@ -13,42 +13,96 @@
     <a target="_blank"href="https://gitee.com/julycub"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/></a>&nbsp;
     <a target="_blank"href="mailto:julycubspring@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40px" />&nbsp;GITHUB DATA
+
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="40px" />&nbsp;FIELD
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Embedded-%2303234B?style=for-the-badge&logo=stmicroelectronics" />&nbsp;
+    <img src="https://img.shields.io/badge/Machine_Vision-%235C3EE8?style=for-the-badge&logo=opencv" />&nbsp;
+    <img src="https://img.shields.io/badge/AIoT-%23A22846?style=for-the-badge&logo=raspberrypi" />&nbsp;
+    <img src="https://img.shields.io/badge/Plane_Interaction-%23FF0000?style=for-the-badge&logo=adobe" />&nbsp;
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;MY SKILLS
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,md" width="40px"/>
-	</p>
-	<p>
-    	<img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino" />
-	</p>
-    <p>
-        <img src="https://skillicons.dev/icons?i=flask,nginx,mysql" />
+        <img src="https://skillicons.dev/icons?i=c" width="50px" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="55px" />
+        <img src="https://skillicons.dev/icons?i=python" width="60px" />
+        <img src="https://skillicons.dev/icons?i=html" width="50px" />
+        <img src="https://skillicons.dev/icons?i=css" width="45px" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="55px" />
+        <img src="https://skillicons.dev/icons?i=md" width="50px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=linux" width="60px" />
+        <img src="https://skillicons.dev/icons?i=windows" width="55px" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="65px" />
+        <img src="https://skillicons.dev/icons?i=arduino" width="50px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=git,github" />
+        <img src="https://skillicons.dev/icons?i=flask" width="55px" />
+        <img src="https://skillicons.dev/icons?i=nginx" width="50px" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="60px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cmake" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65px" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="60px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender,qt,obsidian,notion" />
+        <img src="https://skillicons.dev/icons?i=git" width="50px" />
+        <img src="https://skillicons.dev/icons?i=github" width="55px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,pycharm,clion,matlab,sublime" />
-	</p>
+        <img src="https://skillicons.dev/icons?i=docker" width="60px" />
+        <img src="https://skillicons.dev/icons?i=anaconda" width="55px" />
+        <img src="https://skillicons.dev/icons?i=bash" width="50px" />
+        <img src="https://skillicons.dev/icons?i=cmake" width="50px" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=ps" width="55px" />
+        <img src="https://skillicons.dev/icons?i=ai" width="50px" />
+        <img src="https://skillicons.dev/icons?i=pr" width="60px" />
+        <img src="https://skillicons.dev/icons?i=blender" width="65px" />
+        <img src="https://skillicons.dev/icons?i=qt" width="50px" />
+        <img src="https://skillicons.dev/icons?i=obsidian" width="55px" />
+        <img src="https://skillicons.dev/icons?i=notion" width="50px" />
+    </p>
+    <p>
+        <img src="https://skillicons.dev/icons?i=vscode" width="60px" />
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="55px" />
+        <img src="https://skillicons.dev/icons?i=vim" width="50px" />
+        <img src="https://skillicons.dev/icons?i=neovim" width="50px" />
+        <img src="https://skillicons.dev/icons?i=pycharm" width="55px" />
+        <img src="https://skillicons.dev/icons?i=clion" width="50px" />
+        <img src="https://skillicons.dev/icons?i=matlab" width="60px" />
+        <img src="https://skillicons.dev/icons?i=sublime" width="55px" />
+    </p>
+</div>
+
+
+## <img src=".assets/Triangular Flag-1732060779337-3.png" alt="Triangular Flag" width="40px"  />&nbsp; CONNECT ME
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30px" />&nbsp;<strong>SprInec</strong></p>
+    <p><strong>Email:</strong> sprinec@163.com</p>
+    <p><strong>Gmail:</strong> julycubspring@gmail.com</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  </div>
 </div>
 
 
 
 <br>
+
 <p align="center">
 	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />
 </p>

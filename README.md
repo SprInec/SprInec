@@ -28,7 +28,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35px" />&nbsp;MY SKILLS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;MY SKILLS
 
 <div align="center">
     <p>
@@ -89,16 +89,16 @@
 
 ## <img src=".assets/Triangular Flag-1732060779337-3.png" alt="Triangular Flag" width="35px"  />&nbsp; CONNECT ME
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
 
-<br><br><br><br><br>
+<br><br><br>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="20px" />&nbsp;<strong>SprInec</strong></p>
-<p><strong>Email:</strong> sprinec@163.com</p>
-<p><strong>Gmail:</strong> julycubspring@gmail.com</p>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30px" />&nbsp;<strong>SPRINEC</strong></h3>
+<p></p><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<p></p><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 
-<br><br><br><br><br>
 
+<br><br><br><br>
 
 <p align="center">
 	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&color=1&pretty=true" />

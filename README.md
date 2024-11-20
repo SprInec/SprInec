@@ -18,17 +18,16 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 
-## <img src=".assets/Smiling Cat with Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="35px" />&nbsp;FIELD
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;FIELD & SKILLS
 
 <div align="center">
     <img src="https://img.shields.io/badge/Embedded-%2303234B?style=for-the-badge&logo=stmicroelectronics" />&nbsp;
     <img src="https://img.shields.io/badge/Machine_Vision-%235C3EE8?style=for-the-badge&logo=opencv" />&nbsp;
     <img src="https://img.shields.io/badge/AIoT-%23A22846?style=for-the-badge&logo=raspberrypi" />&nbsp;
     <img src="https://img.shields.io/badge/Plane_Interaction-%23FF0000?style=for-the-badge&logo=adobe" />&nbsp;
-
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40px" />&nbsp;MY SKILLS
+<br>
 
 <div align="center">
     <p>
@@ -45,6 +44,7 @@
         <img src="https://skillicons.dev/icons?i=windows" width="50px" />
         <img src="https://skillicons.dev/icons?i=raspberrypi" width="55px" />
         <img src="https://skillicons.dev/icons?i=arduino" width="60px" />
+	<img src="https://skillicons.dev/icons?i=git" width="60px" />
     </p>
     <p>
         <img src="https://skillicons.dev/icons?i=flask" width="55px" />
@@ -56,10 +56,7 @@
         <img src="https://skillicons.dev/icons?i=tensorflow" width="45px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=git" width="60px" />
-        <img src="https://skillicons.dev/icons?i=github" width="55px" />
-    </p>
-    <p>
+	<img src="https://skillicons.dev/icons?i=github" width="55px" />
         <img src="https://skillicons.dev/icons?i=docker" width="50px" />
         <img src="https://skillicons.dev/icons?i=anaconda" width="55px" />
         <img src="https://skillicons.dev/icons?i=bash" width="55px" />
@@ -70,7 +67,6 @@
         <img src="https://skillicons.dev/icons?i=ai" width="60px" />
         <img src="https://skillicons.dev/icons?i=pr" width="55px" />
         <img src="https://skillicons.dev/icons?i=blender" width="55px" />
-        <img src="https://skillicons.dev/icons?i=qt" width="60px" />
         <img src="https://skillicons.dev/icons?i=obsidian" width="55px" />
         <img src="https://skillicons.dev/icons?i=notion" width="55px" />
     </p>
@@ -79,13 +75,13 @@
         <img src="https://skillicons.dev/icons?i=visualstudio" width="50px" />
         <img src="https://skillicons.dev/icons?i=vim" width="55px" />
         <img src="https://skillicons.dev/icons?i=neovim" width="50px" />
+	<img src="https://skillicons.dev/icons?i=qt" width="60px" />
         <img src="https://skillicons.dev/icons?i=pycharm" width="55px" />
         <img src="https://skillicons.dev/icons?i=clion" width="50px" />
         <img src="https://skillicons.dev/icons?i=matlab" width="55px" />
         <img src="https://skillicons.dev/icons?i=sublime" width="55px" />
     </p>
 </div>
-
 
 ## <img src=".assets/Triangular Flag-1732060779337-3.png" alt="Triangular Flag" width="35px"  />&nbsp; CONNECT ME
 

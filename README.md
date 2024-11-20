@@ -31,55 +31,55 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=c" width="65px" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45px" />
-        <img src="https://skillicons.dev/icons?i=python" width="55px" />
-        <img src="https://skillicons.dev/icons?i=html" width="55px" />
-        <img src="https://skillicons.dev/icons?i=css" width="55px" />
-        <img src="https://skillicons.dev/icons?i=javascript" width="50px" />
-        <img src="https://skillicons.dev/icons?i=md" width="60px" />
+        <img src="https://skillicons.dev/icons?i=c" width="55px" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="35px" />
+        <img src="https://skillicons.dev/icons?i=python" width="45px" />
+        <img src="https://skillicons.dev/icons?i=html" width="45px" />
+        <img src="https://skillicons.dev/icons?i=css" width="45px" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="40px" />
+        <img src="https://skillicons.dev/icons?i=md" width="50px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" />
-        <img src="https://skillicons.dev/icons?i=windows" width="50px" />
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="55px" />
-        <img src="https://skillicons.dev/icons?i=arduino" width="60px" />
-	<img src="https://skillicons.dev/icons?i=git" width="60px" />
+        <img src="https://skillicons.dev/icons?i=linux" width="55px" />
+        <img src="https://skillicons.dev/icons?i=windows" width="40px" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="45px" />
+        <img src="https://skillicons.dev/icons?i=arduino" width="50px" />
+	<img src="https://skillicons.dev/icons?i=git" width="50px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=flask" width="55px" />
-        <img src="https://skillicons.dev/icons?i=nginx" width="50px" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="60px" />
+        <img src="https://skillicons.dev/icons?i=flask" width="45px" />
+        <img src="https://skillicons.dev/icons?i=nginx" width="40px" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=pytorch" width="50px" />
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="45px" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="40px" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="35px" />
     </p>
     <p>
-	<img src="https://skillicons.dev/icons?i=github" width="55px" />
-        <img src="https://skillicons.dev/icons?i=docker" width="50px" />
-        <img src="https://skillicons.dev/icons?i=anaconda" width="55px" />
-        <img src="https://skillicons.dev/icons?i=bash" width="55px" />
-        <img src="https://skillicons.dev/icons?i=cmake" width="45px" />
+	<img src="https://skillicons.dev/icons?i=github" width="45px" />
+        <img src="https://skillicons.dev/icons?i=docker" width="40px" />
+        <img src="https://skillicons.dev/icons?i=anaconda" width="45px" />
+        <img src="https://skillicons.dev/icons?i=bash" width="45px" />
+        <img src="https://skillicons.dev/icons?i=cmake" width="35px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=ps" width="65px" />
-        <img src="https://skillicons.dev/icons?i=ai" width="60px" />
-        <img src="https://skillicons.dev/icons?i=pr" width="55px" />
-        <img src="https://skillicons.dev/icons?i=blender" width="55px" />
-        <img src="https://skillicons.dev/icons?i=obsidian" width="55px" />
-        <img src="https://skillicons.dev/icons?i=notion" width="55px" />
+        <img src="https://skillicons.dev/icons?i=ps" width="55px" />
+        <img src="https://skillicons.dev/icons?i=ai" width="50px" />
+        <img src="https://skillicons.dev/icons?i=pr" width="45px" />
+        <img src="https://skillicons.dev/icons?i=blender" width="45px" />
+        <img src="https://skillicons.dev/icons?i=obsidian" width="45px" />
+        <img src="https://skillicons.dev/icons?i=notion" width="45px" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" />
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="50px" />
-        <img src="https://skillicons.dev/icons?i=vim" width="55px" />
-        <img src="https://skillicons.dev/icons?i=neovim" width="50px" />
-	<img src="https://skillicons.dev/icons?i=qt" width="60px" />
-        <img src="https://skillicons.dev/icons?i=pycharm" width="55px" />
-        <img src="https://skillicons.dev/icons?i=clion" width="50px" />
-        <img src="https://skillicons.dev/icons?i=matlab" width="55px" />
-        <img src="https://skillicons.dev/icons?i=sublime" width="55px" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="55px" />
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="40px" />
+        <img src="https://skillicons.dev/icons?i=vim" width="45px" />
+        <img src="https://skillicons.dev/icons?i=neovim" width="40px" />
+	<img src="https://skillicons.dev/icons?i=qt" width="50px" />
+        <img src="https://skillicons.dev/icons?i=pycharm" width="45px" />
+        <img src="https://skillicons.dev/icons?i=clion" width="40px" />
+        <img src="https://skillicons.dev/icons?i=matlab" width="45px" />
+        <img src="https://skillicons.dev/icons?i=sublime" width="45px" />
     </p>
 </div>
 

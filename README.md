@@ -4,7 +4,23 @@
 
 <div align="center">
     <h1>Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35px" />, I'm SprInec!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="35px" /></h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=%E6%A0%87%E5%87%86&duration=5000&pause=1000&color=002239&center=true&multiline=true&repeat=&random=&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology." alt="Typing SVG" /></a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=ffffff&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+  />
+  <img
+    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=700&size=17&letterSpacing=标准&duration=5000&pause=1000&color=002239&center=true&multiline=true&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology."
+  />
+</picture>
+
+
 </div>
 
 <div align="center">
@@ -19,10 +35,10 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=vue&hide_border=true&bg_color=ffffff&hide_title=true&days=30&point=29701f&height=370&area=true&color=777777&grid=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SprInec&theme=vue&hide_border=true&bg_color=FF5B5B00&hide_title=true&days=30&point=29701f&height=370&area=true&color=777777&grid=false" />
 
 <div align="center">
-<img hight=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SprInec&theme=shadow_green&show_icons=true&hide_border=true&card_width=300px&hide_title=true&line_height=27" />
+<img hight=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SprInec&theme=shadow_green&show_icons=true&hide_border=true&card_width=300px&hide_title=true&line_height=27&text_color=777777" />
 <img hight=200 align="center" src="https://streak-stats.demolab.com?user=SprInec&theme=shadow-green&hide_border=true&card_width=360&background=FF5B5B00&fire=b1ed3b&ring=2d9668&card_hight=195" alt="GitHub Streak" />
 </div>
 

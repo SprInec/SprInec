@@ -4,9 +4,8 @@
 
 <div align="center">
     <h1>Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35px" />, I'm SprInec!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="35px" /></h1>
-	An explorer and sharer who is passionate about creativitys and technology.
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%E8%B4%B9%E6%8B%89%E4%BB%A3%E7%A0%81&weight=500&size=17&letterSpacing=%E6%A0%87%E5%87%86&duration=3000&pause=1000&color=002239&center=true&multiline=true&repeat=&random=&width=770&height=40&lines=An+explorer+and+sharer+who+is+passionate+about+creativitys+and+technology." alt="Typing SVG" /></a>
 </div>
-<br>
 
 <div align="center">
     <a target="_blank"href="https://github.com/SprInec"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;

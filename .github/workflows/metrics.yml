@@ -30,7 +30,7 @@ jobs:
           config_display: large
           config_timezone: Asia/Shanghai
           config_padding: 0, 3%
-          config_order: base.header, base.activity+community, base.repositories, followup, topics, stargazers, languages,  habits, wakatime, isocalendar
+          config_order: base.header, base.activity+community, base.repositories, followup, topics, stargazers, languages, habits, wakatime, isocalendar
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_stargazers: yes

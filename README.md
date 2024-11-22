@@ -1,5 +1,3 @@
-
-
 ![hello](.assets/hello.gif)
 
 <div align="center">
@@ -20,17 +18,12 @@
   />
 </picture>
 
-
 </div>
 
 <div align="center">
     <a target="_blank"href="https://github.com/SprInec"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
     <a target="_blank"href="https://gitee.com/julycub"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/></a>&nbsp;
     <a target="_blank"href="mailto:julycubspring@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-    <a target="_blank"href="https://blog.csdn.net/weixin_60480613?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-%23FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>&nbsp;
-    <a target="_blank"href="https://space.bilibili.com/183558713"><img src="https://img.shields.io/badge/Bilibili-%23FF6699?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>&nbsp;
-    <a target="_blank"href="https://www.zhihu.com/people/ine-risl"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%230084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
-</div>&nbsp;
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35px">&nbsp;GITHUB DATA
 
@@ -116,12 +109,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" />
 
-<h3>SprInec&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" /></h3>
-<p></p><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
-<p></p><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<div align="left">
+	<h3>SprInec&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" /></h3>
+</div>
+<p align="left"><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<p align="left"><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 
 <br>
-
 <p align="left">
 	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&pretty=true" />
 </p>

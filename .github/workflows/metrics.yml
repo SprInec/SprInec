@@ -26,23 +26,18 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, repositories,
-          extras_css: |
-            h1,h2,h3,h4,h5,h6 {
-              color: black;
-            }
-            h1 {
-              text-size: 16px;
-            }
-            h2 {
-              text-size: 14px;
-            }
+          base: header, activity, repositories
           config_display: large
           config_timezone: Asia/Shanghai
-          config_padding: 0, 5
-          config_order: base.header, base.activity+community, base.repositories, topics, followup, languages,  habits, wakatime, isocalendar
+          config_padding: 0, 5%
+          config_order: base.header, base.activity+community, base.repositories, topics, followup, stargazers, languages,  habits, wakatime, isocalendar
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories

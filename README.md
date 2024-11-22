@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/Embedded-%2303234B?style=for-the-badge&logo=stmicroelectronics" />&nbsp;
     <img src="https://img.shields.io/badge/AIoT-%23DE302D?style=for-the-badge&logo=espressif&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Machine_Vision-%235C3EE8?style=for-the-badge&logo=opencv" />&nbsp;
+    <img src="https://img.shields.io/badge/DeepLearning-black?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Plane_Interaction-%23FF0000?style=for-the-badge&logo=adobe" />&nbsp;
 </div>
 

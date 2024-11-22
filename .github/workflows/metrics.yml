@@ -26,10 +26,11 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, repositories
+          base: header, activity, repositories, topics, followup, habits, wakatime, isocalendar
           config_display: large
           config_timezone: Asia/Shanghai
           config_padding: 0, 8 + 11%
+          config_order: base.header, languages
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_followup: yes
@@ -42,7 +43,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 0
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes

@@ -74,6 +74,7 @@
     <p>
         <img src="https://skillicons.dev/icons?i=flask" width="45px" />
         <img src="https://skillicons.dev/icons?i=nginx" width="40px" />
+	<img src="https://skillicons.dev/icons?i=opencv" width="45px" />
         <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
     </p>
     <p>

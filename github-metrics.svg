@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            636 Commits
+                            637 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -567,20 +567,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.3mb of code in 987 edited files across 434 commits</small>
+                <small>estimation from 14.3mb of code in 988 edited files across 435 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="871.007327987411" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="871.007327987411" y="0" width="13.996088064559334" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="885.0034160519704" y="0" width="10.431707602757477" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="895.4351236547278" y="0" width="6.334843186972048" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="901.7699668416999" y="0" width="6.294492065813236" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="908.0644589075131" y="0" width="5.282791408908543" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="913.3472503164217" y="0" width="4.45804466148498" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="917.8052949779067" y="0" width="2.194705022093407" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="871.0042932352978" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="871.0042932352978" y="0" width="13.996039299576005" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="885.0003325348739" y="0" width="10.431671256741005" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="895.432003791615" y="0" width="6.334821115195921" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="901.7668249068108" y="0" width="6.294470134627948" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="908.0612950414388" y="0" width="5.282773002677188" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="913.344068044116" y="0" width="4.461234580552603" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="917.8053026246687" y="0" width="2.194697375331446" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -657,7 +657,7 @@
                             </div>
                             <small>
                                 <div>1.99k lines</div>
-                                <div>47.2 kB</div>
+                                <div>47.3 kB</div>
                             </small>
                         </div>
                     </section>
@@ -708,7 +708,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on Unknown Project
+                            Working on typora-spring-th…
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -743,7 +743,7 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Unknown Project</span>
+                                <span class="name">typora-spring-theme</span>
                                 <div class="bar" style="width: 66.512%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">83%</span>
                             </div>

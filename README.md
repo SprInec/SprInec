@@ -115,7 +115,7 @@
 </div>
 <p align="left">
 	<a href="https://wakatime.com/@5f4f5c35-d787-44a7-8d8f-165e409beb82">
-		<img src="https://wakatime.com/badge/user/5f4f5c35-d787-44a7-8d8f-165e409beb82.svg" alt="Total time coded since Nov 21 2024" />
+		<img src="https://wakatime.com/badge/user/5f4f5c35-d787-44a7-8d8f-165e409beb82.svg?style=flat-square" alt="Total time coded since Nov 21 2024" />
 	</a>
 </p>
 <p align="left"><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>

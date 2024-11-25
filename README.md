@@ -108,18 +108,17 @@
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />&nbsp; CONNECT ME
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="325" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="245" />
 
 <div align="left">
 	<h3>SprInec&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" /></h3>
 </div>
 <p align="left">
 	<a href="https://wakatime.com/@5f4f5c35-d787-44a7-8d8f-165e409beb82">
-		<img src="https://wakatime.com/badge/user/5f4f5c35-d787-44a7-8d8f-165e409beb82.svg?style=flat-square" alt="Total time coded since Nov 21 2024" />
+		<img src="https://wakatime.com/badge/user/5f4f5c35-d787-44a7-8d8f-165e409beb82.svg?" alt="Total time coded since Nov 21 2024" />
 	</a>
 </p>
-<p align="left"><img src="https://img.shields.io/badge/NetEase-SprInec%40163.com-BB3327?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
-<p align="left"><img src="https://img.shields.io/badge/GMAIL-julycubspring%40gmail.com-2b4f9e?style=for-the-badge&link=mailto%3Ajulycubspring%40gmail.com" /></p>
+<p align="left"><img src="https://img.shields.io/badge/email-SprInec%40163.com-BB3327?logo=maildotru&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 
 <br>
 <p align="left">

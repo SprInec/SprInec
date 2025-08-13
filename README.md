@@ -121,7 +121,3 @@
 <p align="left"><img src="https://img.shields.io/badge/email-SprInec%40163.com-BB3327?logo=maildotru&link=mailto%3Ajulycubspring%40gmail.com" /></p>
 
 <br>
-
-<p align="left">
-	<img src="https://visitcount.itsvg.in/api?id=SprInec&label=Profile%20Views&pretty=true" />
-</p>

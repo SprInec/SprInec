@@ -573,14 +573,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="861.5461255833312" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="861.5461255833312" y="0" width="13.528133318356947" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="875.0742589016882" y="0" width="10.099693994410003" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="885.1739528960982" y="0" width="10.08292678191748" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="895.2568796780157" y="0" width="9.175219153449907" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="904.4320988314655" y="0" width="7.323535686884193" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="911.7556345183497" y="0" width="6.123039722881401" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="917.8786742412311" y="0" width="2.1213257587688616" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="863.5372601851653" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="863.5372601851653" y="0" width="13.559398428312807" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="877.0966586134782" y="0" width="10.123035577156479" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="887.2196941906346" y="0" width="10.106229613660405" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="897.3259238042951" y="0" width="9.196424165919177" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="906.5223479702144" y="0" width="7.340461240700653" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="913.862809210915" y="0" width="3.711560503404528" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="917.5743697143195" y="0" width="2.4256302856805307" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -651,13 +651,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Assembly
+                                ARM Assembly
                             </div>
                             <small>
-                                <div>1.49k lines</div>
-                                <div>67.1 kB</div>
+                                <div>821 lines</div>
+                                <div>40.6 kB</div>
                             </small>
                         </div>
                     </section>
@@ -677,13 +677,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ecdebe" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Roff
+                                Assembly
                             </div>
                             <small>
-                                <div>525 lines</div>
-                                <div>23.2 kB</div>
+                                <div>665 lines</div>
+                                <div>26.5 kB</div>
                             </small>
                         </div>
                     </section>
